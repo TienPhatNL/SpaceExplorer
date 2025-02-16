@@ -79,7 +79,7 @@ public class AsteroidManager : MonoBehaviour
         // Create the asteroid.
         Vector2 worldSpawnPosition = Camera.main.ViewportToWorldPoint(viewportSpawnPosition);
 
-        asteroidPrefab.Size = Random.Range(0.5f, 1.5f);
+        asteroidPrefab.Size = Random.Range(1, 3);
 
         Asteroid asteroid = Instantiate(asteroidPrefab, worldSpawnPosition, Quaternion.identity);
         asteroid.manager = this;

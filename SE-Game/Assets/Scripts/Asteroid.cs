@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Asteroid : MonoBehaviour
 {
-    public float Size = 1f;
+    public int Size = 1;
     public AsteroidManager manager;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -18,6 +18,30 @@ public class Asteroid : MonoBehaviour
         rigidBody.angularVelocity = 1.0f * Random.Range(-500.0f, 500.0f);
         // Creation
         manager.NumberOfAsteroid++;
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Bullet"))
+        {
+            // Remove the bullet
+            Destroy(other.gameObject);
+
+            // Remove asteroid if hit by bullet
+            manager.NumberOfAsteroid--;
+
+            if (Size > 1)
+            {
+                for (int i = 0; i < 2;  i++)
+                {
+                    Asteroid asteroid = Instantiate(this, transform.position, Quaternion.identity);
+                    asteroid.Size = Size - 1;
+                    asteroid.manager = manager;
+                }
+            }
+
+            Destroy(gameObject);
+        }
     }
 
     // Update is called once per frame

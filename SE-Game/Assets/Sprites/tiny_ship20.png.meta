@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8361d8d96f7352549bc1f9f21da83da8
+guid: 39c899a2beb395a48a82c647dce1f8d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8533231144320634874
-    second: Asteroid 01 - Base_0
+      213: 1303143682609163073
+    second: tiny_ship20_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Asteroid 01 - Base_0
+      name: tiny_ship20_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 30
-        width: 40
-        height: 35
+        x: 0
+        y: 0
+        width: 44
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 600f7783c7fd39980800000000000000
-      internalID: -8533231144320634874
+      spriteID: 14ba6356642b51210800000000000000
+      internalID: 1303143682609163073
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Asteroid 01 - Base_0: -8533231144320634874
+      tiny_ship20_0: 1303143682609163073
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

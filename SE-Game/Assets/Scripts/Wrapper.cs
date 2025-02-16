@@ -12,10 +12,10 @@ public class Wrapper : MonoBehaviour
     void Update()
     {
         // Convert world point to Viewport so it's in 0->1 range.
-        Vector2 viewportPosition = Camera.main.WorldToViewportPoint(transform.position);
+        Vector3 viewportPosition = Camera.main.WorldToViewportPoint(transform.position);
 
         // If it's moved out of the viewport wrap to opposite side.
-        Vector2 moveAdjustment = Vector2.zero;
+        Vector3 moveAdjustment = Vector3.zero;
         if (viewportPosition.x < 0)
         {
             moveAdjustment.x += 1;
@@ -26,12 +26,13 @@ public class Wrapper : MonoBehaviour
         }
         else if (viewportPosition.y < 0)
         {
-            moveAdjustment.y += 1;
+            //moveAdjustment.y += 1;
             Destroy(gameObject);
         }
-        else if (viewportPosition.y > 1)
+        else if (viewportPosition.y > 2)
         {
             //moveAdjustment.y -= 1;
+            Destroy(gameObject);
         }
 
         // Convert back into world coordinates before assigning.
