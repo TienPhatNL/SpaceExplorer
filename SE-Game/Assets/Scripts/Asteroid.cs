@@ -4,6 +4,9 @@ public class Asteroid : MonoBehaviour
 {
     public int Size = 1;
     public AsteroidManager manager;
+    public ParticleSystem destroyedParticles;
+    public AudioClip destroyedAudioClip;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -24,6 +27,7 @@ public class Asteroid : MonoBehaviour
     {
         if (other.CompareTag("Bullet"))
         {
+            AudioSource.PlayClipAtPoint(destroyedAudioClip, transform.position, 1f);
             // Remove the bullet
             Destroy(other.gameObject);
 
@@ -39,6 +43,8 @@ public class Asteroid : MonoBehaviour
                     asteroid.manager = manager;
                 }
             }
+
+            Instantiate(destroyedParticles, transform.position, Quaternion.identity);
 
             Destroy(gameObject);
         }

@@ -188,6 +188,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Size: 1
   manager: {fileID: 0}
+  destroyedParticles: {fileID: 2876553211242029286, guid: abd34868606314a4096e639c29631836, type: 3}
+  destroyedAudioClip: {fileID: 8300000, guid: 763ac6134ca4fda4ab40c2c2d713ef4c, type: 3}
 --- !u!114 &3238900038545989904
 MonoBehaviour:
   m_ObjectHideFlags: 0

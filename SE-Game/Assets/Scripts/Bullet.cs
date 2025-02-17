@@ -3,10 +3,11 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     public float BulletLifetime = 1.5f;
-
+    public AudioClip StartClip;
 
     private void Awake()
     {
+        AudioSource.PlayClipAtPoint(StartClip, transform.position, 0.75f);
         Destroy(gameObject, BulletLifetime);
     }
 
