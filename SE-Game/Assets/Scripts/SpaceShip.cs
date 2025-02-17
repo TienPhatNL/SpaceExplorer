@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SpaceShip : MonoBehaviour
 {
@@ -62,6 +63,8 @@ public class SpaceShip : MonoBehaviour
             Instantiate(DestroyedParticle, transform.position, Quaternion.identity);
             IsAlive = false;
             Destroy(gameObject);
+
+            SceneManager.LoadScene("EndMenu");
         }
     }
 
