@@ -1,5 +1,7 @@
-﻿using UnityEngine;
+﻿using System.Drawing;
+using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class SpaceShip : MonoBehaviour
 {
@@ -65,7 +67,7 @@ public class SpaceShip : MonoBehaviour
             Destroy(gameObject);
 
             SceneManager.LoadScene("EndMenu");
-        }
+        }        
     }
 
     void ClampPosition()
@@ -88,4 +90,5 @@ public class SpaceShip : MonoBehaviour
         // Gán lại vị trí giới hạn
         transform.position = pos;
     }
+
 }
