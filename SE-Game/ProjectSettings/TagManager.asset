@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Bullet
   - Asteroids
+  - Star
+  - Undefined
   layers:
   - Default
   - TransparentFX
@@ -40,6 +42,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG
+    uniqueID: 2827533631
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

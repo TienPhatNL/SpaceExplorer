@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+﻿using System.Drawing;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class SpaceShip : MonoBehaviour
 {
@@ -12,6 +15,9 @@ public class SpaceShip : MonoBehaviour
     
     public Transform BulletSpawn;
     public Rigidbody2D bulletPrefab;
+    public AudioClip destroyedSoundClip;
+
+    public ParticleSystem DestroyedParticle;
 
     void Start()
     {
@@ -22,15 +28,14 @@ public class SpaceShip : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         if (IsAlive)
-        { 
+        {
             // Lấy input từ bàn phím
             float moveX = Input.GetAxis("Horizontal");
             float moveY = Input.GetAxis("Vertical");
-
             // Di chuyển phi thuyền
             transform.Translate(new Vector3(moveX, moveY, 0) * MoveSpeed * Time.deltaTime);
-
             if (FireRate < 0.5)
             {
                 FireRate += Time.deltaTime;
@@ -56,9 +61,13 @@ public class SpaceShip : MonoBehaviour
     {
         if (collision.CompareTag("Asteroids"))
         {
+            AudioSource.PlayClipAtPoint(destroyedSoundClip, transform.position);
+            Instantiate(DestroyedParticle, transform.position, Quaternion.identity);
             IsAlive = false;
             Destroy(gameObject);
-        }
+
+            SceneManager.LoadScene("EndMenu");
+        }        
     }
 
     void ClampPosition()
@@ -81,4 +90,5 @@ public class SpaceShip : MonoBehaviour
         // Gán lại vị trí giới hạn
         transform.position = pos;
     }
+
 }

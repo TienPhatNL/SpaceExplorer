@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 6db6b372199c5244cbc1a4329157a48a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7780069988837544042
+    second: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a63bb81df644546bc066c191cefa4e
+      internalID: -1459743458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 720
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0622cb8b811379f42b9f146cd6e56247
+      internalID: 2121880625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 720
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3d4ba091a0dcc4c9444397b1f76e44
+      internalID: -320233569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 720
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb568ed3aadb254ab8e018a6ad64492
+      internalID: -264774235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 720
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f45b1ad4ed9134d99ac3ee82646e0e
+      internalID: 477813846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_5
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 720
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54ecc9b6c8f5274ab31f44d85b5bdfe
+      internalID: 1011551875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_6
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 720
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7b77f47afe47438ffcb6e318b626b
+      internalID: -1781440834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3853196d69a0561499140b1725870fa9
+      internalID: -1034210702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 480
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6df958491c73149830704badccf714
+      internalID: 790488205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 480
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a402adcca2ae6c4db815a9c08d84bc5
+      internalID: -1854589882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_10
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 480
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b72506b897364ea9c697b948de328
+      internalID: 540067397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_11
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 480
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc1382e6b1b9f469f7b9a70d733be6
+      internalID: 1299137914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_12
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 480
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9e2080eee3d094f83d0aa6da3eaafd
+      internalID: -1416609902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_13
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 480
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696d8c8b68f6e8b4bade9ebe62110328
+      internalID: 900695591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4380fb833f357947b2e8c9d36baa263
+      internalID: -872722882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 240
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6c255023ca0ef4aa4f18661e7cb117
+      internalID: 1909088818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 240
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892617c73365297448e2129e20527e3b
+      internalID: 1438347699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 240
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20b7b7dee5d486488a41c11a530e848
+      internalID: 1199063903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_18
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 240
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d33bc21e186d9341a85df546a8e383d
+      internalID: 2022222224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_19
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 240
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16445950e336a3a4caeabb20fe014fbb
+      internalID: -982537103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_20
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 274
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0422ae87a6113408e07a9374b884df
+      internalID: 712011739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1a77b731bd4b148b1942eb31088f0d
+      internalID: 1570522149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354665d81cad5814587f2ce4315b0df4
+      internalID: 1822247568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_23
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253b2f4e3e95b7c40acd98caec9c551d
+      internalID: 1987711664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_24
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d7e522723a5d846b4c50ccc16be01c
+      internalID: 137134421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_25
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8448c9fb9ee9b469e7907f08407d9f
+      internalID: -1201329996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_26
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 0
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977beba168c96ff4f9c329315b79e537
+      internalID: -854192882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_27
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 0
+        width: 274
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ecdd802131d344a1054a80e6ed783
+      internalID: -428098669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7e9062db774265143874b7b5f34de85c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_0: -1459743458
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_1: 2121880625
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_10: 540067397
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_11: 1299137914
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_12: -1416609902
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_13: 900695591
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_14: -872722882
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_15: 1909088818
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_16: 1438347699
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_17: 1199063903
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_18: 2022222224
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_19: -982537103
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_2: -320233569
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_20: 712011739
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_21: 1570522149
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_22: 1822247568
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_23: 1987711664
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_24: 137134421
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_25: -1201329996
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_26: -854192882
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_27: -428098669
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_3: -264774235
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_4: 477813846
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_5: 1011551875
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_6: -1781440834
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_7: -1034210702
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_8: 790488205
+      pixel-art-stars-comic-8-bit-game-space-light-retro-decorative-night-pixelated-sparkling-elements-yellow-and-gold-star-and-glitter-for-mobile-games-set-vector_9: -1854589882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

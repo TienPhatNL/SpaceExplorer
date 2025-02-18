@@ -8,6 +8,10 @@ public class MainMenuController : MonoBehaviour
     // Called when the Play button is clicked
     public void OnPlayButtonClick()
     {
+        if (ScoreManager.instance != null)
+        {
+            ScoreManager.instance.ResetScore();
+        }
         SceneManager.LoadScene("Gameplay"); // Load the Gameplay scene
     }
 
