@@ -1,10 +1,13 @@
-﻿using UnityEngine;
+﻿using System.Drawing;
+using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class StarController : MonoBehaviour
 {
     public float speed;
     public int point = 10;
+
+    public AudioClip hitClip;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -13,6 +16,8 @@ public class StarController : MonoBehaviour
         {
             // Tính điểm
             ScoreManager.instance.AddScore(point);
+
+            AudioSource.PlayClipAtPoint(hitClip, transform.position, 1f);
 
             // Hủy ngôi sao
             Destroy(gameObject);
